@@ -47,6 +47,7 @@ D <= A and B_NOT;
 E <= B and C;
 F <= E or D;
 
+--hi
 --bears
 --gobearsbears
 end Behavioral;
