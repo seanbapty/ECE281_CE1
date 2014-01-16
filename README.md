@@ -24,3 +24,7 @@ ECE281_CE1
 Based on the given circuit, the output (F) should equal 1 for A!B + BC. Given this information,
 the output makes sense yielding 1 four times for !ABC, A!B!C, A!BC, and ABC. All of these satisfy
 either A!B OR BC.
+
+## Documentation
+
+I discussed how to format URLs for images in the README with Daniel Eichman.
